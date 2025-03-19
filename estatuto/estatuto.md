@@ -53,10 +53,10 @@ III - Os cooperados poderão ingressar como cooperados ativos ou em categoria di
 I - A participação no capital social da Cooperativa se dará mediante a subscrição e integralização de cotas-partes, conforme os valores definidos no Artigo 4º deste Capítulo.
 
 ### I.I - Pessoas Físicas
-- As pessoas físicas deverão integralizar, no momento da adesão, 15 (quinze) salários mínimos vigentes no país, conforme o valor estipulado para a adesão.
+- As pessoas físicas deverão integralizar, no momento da adesão, 12 (doze) salários mínimos vigentes no país, conforme o valor estipulado para a adesão em até 60 pagamentos.
 
 ### I.II - Pessoas Jurídicas
-- As pessoas jurídicas deverão integralizar 15 (quinze) salários mínimos multiplicados pelo número de funcionários no momento da filiação, ou, caso a pessoa jurídica seja uma cooperativa, o valor da cota será de 15 (quinze) vezes o valor dos recebíveis dos cooperados no momento da filiação.
+- As pessoas jurídicas deverão integralizar 12 (doze) salários mínimos multiplicados pelo número de funcionários no momento da filiação, ou, caso a pessoa jurídica seja uma cooperativa, o valor da cota será de 12 (doze) vezes o valor dos recebíveis integrais dos cooperados no momento da filiação.
 
 ## Art. 4º - Da Distribuição das Sobras e Perdas
 
@@ -79,8 +79,11 @@ I - O cooperado poderá ser excluído da Cooperativa por decisão do Conselho T�
 - Violação grave deste Estatuto ou das deliberações da Assembleia Geral.
 - Inadimplência persistente, conforme os prazos e condições estabelecidos pela Cooperativa.
 - Atividades incompatíveis com o objeto social da Cooperativa.
+- Colocar em risco o capital social de outros cooperados em projetos onde o valor envolvido exceda a cota-parte correspondente ao cooperado.
 
-II - O desligamento do cooperado poderá ocorrer a pedido do próprio cooperado ou por exclusão, conforme o caso, devendo ser respeitados os prazos e condições estabelecidas para a devolução das cotas-partes, conforme previsto neste Estatuto.
+II – O cooperado excluído será notificado formalmente, garantindo-se o direito à ampla defesa e ao contraditório perante o Conselho Técnico.
+
+III – Em caso de exclusão, a devolução do capital social será realizada em até 60 meses, conforme a saúde financeira da Cooperativa, descontadas eventuais obrigações pendentes.
 
 
 # Capítulo III – Do Capital Social
@@ -89,7 +92,7 @@ II - O desligamento do cooperado poderá ocorrer a pedido do próprio cooperado 
 
 I - O capital social da Cooperativa é variável e será composto pelas quotas-partes subscritas pelos cooperados, de acordo com os valores estabelecidos neste Capítulo.
 
-II - O valor mínimo do capital social para a constituição da Cooperativa será de 100 (cem) salários mínimos, conforme o valor do salário mínimo vigente na data da constituição.
+II - O valor mínimo do capital social para a constituição da Cooperativa será de 240 (duzentos e quarenta) salários mínimos, conforme o valor do salário mínimo vigente na data da constituição.
 
 III - A integralização do capital social deverá ser realizada pelos cooperados no momento de sua adesão à Cooperativa, conforme os critérios estabelecidos no Art. 3º do Capítulo II.
 
@@ -102,7 +105,7 @@ I - O capital social da Cooperativa poderá ser alterado, aumentando ou reduzind
 
 II - O aumento do capital social poderá ocorrer mediante a emissão de novas quotas-partes, sendo que os cooperados deverão ser consultados e convidados a subscrevê-las proporcionalmente às suas participações anteriores.
 
-III - O valor do aumento do capital social será definido pela Assembleia Geral, levando em consideração a necessidade de recursos para o desenvolvimento das atividades da Cooperativa.
+III – O valor do aumento do capital social será definido pela Assembleia Geral, levando em consideração a necessidade de recursos para o desenvolvimento das atividades da Cooperativa, desde que não entre em conflito com os critérios técnicos de desenvolvimento da infraestrutura de ativos de datacenter, processamento de dados e outros serviços regulados pelo Conselho Técnico.iva.
 
 ## Art. 3º - Da Transferência de Quotas-Partes
 
@@ -117,7 +120,7 @@ III - A transferência de quotas-partes a terceiros não cooperados poderá ocor
 I - Em caso de exclusão de um cooperado ou seu desligamento voluntário, a Cooperativa deverá devolver as quotas-partes integralizadas, respeitando-se os seguintes critérios:
 
 - A devolução será realizada conforme a valorização ou desvalorização das quotas-partes no período de permanência do cooperado, conforme aprovado pela Assembleia Geral.
-- A devolução das quotas-partes será realizada no prazo de até 12 (doze) meses após a formalização do desligamento, salvo disposições específicas em contrário.
+- A devolução das quotas-partes será realizada no prazo de até 60 (sessenta) meses após a formalização do desligamento, salvo disposições específicas em contrário.
 
 II - Caso o cooperado possua débitos ou pendências com a Cooperativa, a devolução das suas quotas-partes poderá ser suspensa ou ajustada, conforme estabelecido pela Assembleia Geral.
 
@@ -150,72 +153,108 @@ III - Quaisquer alterações no capital social deverão ser formalizadas por mei
 
 A administração da Cooperativa será composta por:
 
-I - Assembleia Geral;
-II - Conselho Administrativo;
-III - Conselho Técnico;
-IV - Diretoria Executiva.
+I - Assembleia Geral
 
-## Art. 2º - Da Assembleia Geral
+II - Conselho Administrativo
+
+III - Conselho Fiscal
+
+IV - Conselho Técnico
+
+### Art. 2º - Da Assembleia Geral
 
 I - A Assembleia Geral é o órgão soberano da Cooperativa, composta por todos os cooperados.
 
 II - Compete à Assembleia Geral, além das atribuições previstas neste Estatuto, as seguintes funções:
 
-1. Aprovar as contas da administração;
-2. Eleger e destituir os membros do Conselho Administrativo e do Conselho Técnico;
-3. Aprovar as mudanças no capital social, conforme Art. 2º do Capítulo III;
-4. Deliberar sobre a reforma do Estatuto Social;
-5. Aprovar as demonstrações financeiras anuais da Cooperativa;
-6. Decidir sobre a dissolução ou liquidação da Cooperativa.
+- Aprovar as contas da administração;
+- Eleger e destituir os membros do Conselho Administrativo;
+- Aprovar as mudanças no capital social, conforme Art. 2º do Capítulo III, desde que não entrem em conflito com critérios técnicos definidos pelo Conselho Técnico;
+- Deliberar sobre a reforma do Estatuto Social, ressalvadas as competências exclusivas do Conselho Técnico;
+- Aprovar as demonstrações financeiras anuais da Cooperativa;
+- Decidir sobre a dissolução ou liquidação da Cooperativa, desde que haja aprovação unânime do Conselho Técnico.
 
 III - A Assembleia Geral reunir-se-á ordinariamente uma vez por ano e, extraordinariamente, sempre que convocada pela Diretoria Executiva, pelo Conselho Administrativo ou por, no mínimo, 1/5 (um quinto) dos cooperados.
 
+IV - As decisões que afetarem a infraestrutura técnica, os serviços regulados pelo Conselho Técnico ou a governança do próprio Conselho Técnico só poderão ser implementadas com a aprovação prévia e unânime deste órgão.
+
 ## Art. 3º - Do Conselho Administrativo
 
-I - O Conselho Administrativo será composto por 5 (cinco) membros eleitos pela Assembleia Geral, com mandato de 2 (dois) anos, permitida a reeleição.
+I - O Conselho Administrativo será composto por 3 (tres) membros, com mandato de 4 (quatro) anos, permitida a reeleição.
 
-II - Compete ao Conselho Administrativo:
+II - A eleição para o Conselho Administrativo ocorrerá da seguinte forma:
+   
+1. O processo de eleição será conduzido em sessão conjunta do Conselho Técnico e da Assembleia Geral;  
+2. Cada membro do Conselho Técnico terá direito a 1 (um) voto, totalizando um peso de fator 7 (sete) votos virtuais;  
+3. A Assembleia Geral cada membro terá direito a 1 (um) voto, totalizando um peso de fator 8 (oito) votos virtuais distribuídos proporcionalmente entre os cooperados não pertencentes ao Conselho Técnico, com o peso de cada voto calculado de acordo com a participação de cada cooperado presente;  
+4. Será considerado eleito o candidato que obtiver a maioria simples dos votos somados do Conselho Técnico e dos votos virtuais da Assembleia Geral.  
 
-1. Deliberar sobre os objetivos estratégicos da Cooperativa;
-2. Aprovar o orçamento anual e as políticas operacionais;
-3. Aprovar a admissão de novos cooperados;
-4. Supervisionar a atuação da Diretoria Executiva;
-5. Elaborar relatórios periódicos sobre a gestão da Cooperativa;
-6. Deliberar sobre a distribuição de sobras ou a apuração de resultados.
+III - Compete ao Conselho Administrativo:
 
-III - O Conselho Administrativo deverá reunir-se, no mínimo, uma vez por trimestre, com a presença da maioria de seus membros.
+1. Deliberar sobre os objetivos estratégicos da Cooperativa, respeitando as diretrizes técnicas definidas pelo Conselho Técnico;  
+2. Aprovar o orçamento anual e as políticas operacionais, observando as demandas técnicas e a sustentabilidade financeira;  
+3. Aprovar a admissão de novos cooperados, desde que em conformidade com as regras estabelecidas no Estatuto Social e com a aprovação do Conselho Técnico para cargos técnicos;  
+4. Supervisionar a atuação da Diretoria Executiva;  
+5. Elaborar relatórios periódicos sobre a gestão da Cooperativa e disponibilizá-los aos cooperados;  
+6. Deliberar sobre a distribuição de sobras ou a apuração de resultados, respeitando as regras de reinvestimento em infraestrutura definidas pelo Conselho Técnico.  
 
-IV - A eleição para o Conselho Administrativo será realizada pela Assembleia Geral, com base em voto secreto ou aberto, conforme decidido pelos cooperados presentes.
+IV - O Conselho Administrativo deverá reunir-se, no mínimo, uma vez por trimestre, com a presença da maioria de seus membros.  
+
+V - As decisões do Conselho Administrativo não poderão contrariar as deliberações técnicas e estratégicas do Conselho Técnico.
+
 
 ## Art. 4º - Do Conselho Técnico
 
-I - O Conselho Técnico será composto por, no mínimo, 3 (três) membros, todos com experiência ou conhecimento técnico relevante na área de software, infraestrutura de telecomunicações ou processamento de dados, conforme o objeto da Cooperativa.
+I - O Conselho Técnico será composto por, no mínimo, 3 (três) membros, todos com experiência comprovada ou conhecimento técnico relevante na área de software, infraestrutura de telecomunicações ou processamento de dados, conforme o objeto da Cooperativa.
 
-II - Compete ao Conselho Técnico:
+II - A entrada de novos membros no Conselho Técnico deverá ser aprovada por maioria simples dos membros já em exercício, garantindo sua autonomia em relação aos demais órgãos da Cooperativa.
 
-1. Assessoria à Assembleia Geral e ao Conselho Administrativo em questões técnicas e operacionais;
-2. Aprovar projetos estratégicos e inovações tecnológicas da Cooperativa;
-3. Realizar a avaliação da qualidade dos serviços prestados pela Cooperativa;
-4. Definir normas e melhores práticas para os processos internos da Cooperativa.
+III - Compete exclusivamente ao Conselho Técnico:
 
-III - Os membros do Conselho Técnico serão eleitos pela Assembleia Geral, com mandato de 2 (dois) anos, permitida a reeleição, sendo vedada a eleição de pessoas que sejam parentes até 3º grau de membros do Conselho Administrativo ou que possuam vínculos com empresas concorrentes.
+1. Aprovar e regular projetos estratégicos, inovações tecnológicas e investimentos em infraestrutura da Cooperativa;  
+2. Deliberar sobre normas técnicas, melhores práticas e processos internos relacionados à operação e ao desenvolvimento tecnológico;  
+3. Garantir a integridade e a segurança do capital social e dos ativos tecnológicos, com poder de veto sobre decisões da Assembleia Geral ou do Conselho Administrativo que possam comprometer esses princípios;  
+4. Aprovar a admissão de cooperados que desempenharão funções técnicas essenciais;  
+5. Autorizar a entrada de novos membros no próprio Conselho Técnico, respeitando a limitação de até 30% (trinta por cento) de membros que possuam relação de parentesco até o 3º grau com outros membros do Conselho Técnico;  
+6. Fiscalizar a conformidade das decisões da Assembleia Geral e do Conselho Administrativo com as diretrizes técnicas estabelecidas;  
+7. Emitir pareceres vinculantes em matérias técnicas que envolvam a operação da Cooperativa, incluindo a gestão de ativos de datacenter, processamento de dados e outras infraestruturas críticas.  
 
-IV - O Conselho Técnico deverá reunir-se no mínimo uma vez por semestre.
+IV - Os membros do Conselho Técnico terão mandato vitalício, salvo em caso de renúncia, falecimento ou destituição por decisão unânime dos demais membros do Conselho Técnico.
+
+V - O Conselho Técnico deverá reunir-se, no mínimo, uma vez por semestre ou em caráter extraordinário quando solicitado por qualquer um de seus membros.
+
+VI - A dissolução da Cooperativa somente poderá ocorrer mediante aprovação de, no mínimo, 75% (setenta e cinco por cento) dos cooperados em Assembleia Geral e com a anuência unânime do Conselho Técnico.
+
+VII - Qualquer alteração no capital social que afete a infraestrutura de ativos de datacenter, processamento de dados ou serviços técnicos deverá ser submetida previamente ao Conselho Técnico para avaliação e aprovação.
+
+VIII - As decisões do Conselho Técnico são soberanas em matéria técnica e não estão sujeitas a revisão por outros órgãos da Cooperativa.
+
 
 ## Art. 5º - Da Diretoria Executiva
 
-I - A Diretoria Executiva será composta por 2 (dois) diretores: Diretor-Presidente e Diretor-Financeiro, eleitos pela Assembleia Geral, com mandato de 2 (dois) anos, permitida a reeleição.
+I - A Diretoria Executiva será composta por 2 (dois) diretores: Diretor-Presidente e Diretor-Financeiro, com mandato de 4 (quatro) anos, permitida a reeleição.
 
-II - Compete à Diretoria Executiva:
+II - A eleição para a Diretoria Executiva ocorrerá da seguinte forma:
 
-1. Executar as deliberações da Assembleia Geral e do Conselho Administrativo;
-2. Administrar as atividades operacionais e financeiras da Cooperativa;
-3. Representar a Cooperativa judicial e extrajudicialmente;
-4. Elaborar o plano de ação anual da Cooperativa, sujeito à aprovação do Conselho Administrativo;
-5. Gerir a equipe de colaboradores e cooperados na operação diária da Cooperativa;
-6. Garantir o cumprimento das obrigações legais e fiscais da Cooperativa.
+1. O processo de eleição será conduzido em sessão conjunta do Conselho Técnico e da Assembleia Geral;  
+2. Cada membro do Conselho Técnico terá direito a 1 (um) voto, totalizando um peso de fator 7 (sete) votos virtuais;  
+3. A Assembleia Geral, cada membro terá direito a 1 (um) voto, totalizando um peso de fator 8 (oito) votos virtuais distribuídos proporcionalmente entre os cooperados não pertencentes ao Conselho Técnico, com o peso de cada voto calculado de acordo com a participação de cada cooperado presente;  
+4. Será considerado eleito o candidato que obtiver a maioria simples dos votos somados do Conselho Técnico e dos votos virtuais da Assembleia Geral.  
 
-III - Os membros da Diretoria Executiva deverão ser eleitos por seus pares na Assembleia Geral, com base no mérito e na experiência na área de atuação da Cooperativa.
+III - Compete à Diretoria Executiva:
+
+1. Executar as deliberações da Assembleia Geral, do Conselho Administrativo e do Conselho Técnico;  
+2. Administrar as atividades operacionais e financeiras da Cooperativa, observando as diretrizes técnicas do Conselho Técnico;  
+3. Representar a Cooperativa judicial e extrajudicialmente, salvo em matérias técnicas que são de competência exclusiva do Conselho Técnico;  
+4. Elaborar o plano de ação anual da Cooperativa, sujeito à aprovação do Conselho Administrativo e à não objeção do Conselho Técnico;  
+5. Gerir a equipe de colaboradores e cooperados na operação diária da Cooperativa;  
+6. Garantir o cumprimento das obrigações legais e fiscais da Cooperativa;  
+7. Assegurar que todas as decisões administrativas estejam em conformidade com os critérios técnicos estabelecidos pelo Conselho Técnico.  
+
+IV - Os membros da Diretoria Executiva deverão ser eleitos por seus pares na Assembleia Geral, com base no mérito e na experiência na área de atuação da Cooperativa.
+
+V - Qualquer decisão da Diretoria Executiva que impacte a infraestrutura de ativos de datacenter, processamento de dados ou demais áreas técnicas deve ser previamente aprovada pelo Conselho Técnico.
+
 
 ## Art. 6º - Da Responsabilidade dos Órgãos Administrativos
 
@@ -235,11 +274,9 @@ III - Não será permitida a remuneração de membros da Cooperativa que sejam c
 
 ## Art. 8º - Da Substituição dos Membros
 
-I - Em caso de vacância de cargos nos órgãos administrativos (Conselho Administrativo, Conselho Técnico ou Diretoria Executiva), a Assembleia Geral convocará uma eleição extraordinária para a substituição do membro vacante.
+I - Em caso de vacância de cargos nos órgãos administrativos (Conselho Administrativo ou Diretoria Executiva), a Assembleia Geral convocará uma eleição extraordinária para a substituição do membro vacante.
 
-II - Caso o cargo vacante seja do Conselho Administrativo ou do Conselho Técnico, a Assembleia Geral poderá convocar uma eleição para o preenchimento do cargo de forma temporária, até a eleição regular.
-
-III - Caso o cargo vacante seja da Diretoria Executiva, o Conselho Administrativo poderá nomear um substituto temporário até a próxima Assembleia Geral, onde será realizada a eleição definitiva.
+II - Caso o cargo vacante seja do Conselho Administrativo ou da Diretoria Executiva, o Conselho Técnico poderá nomear um substituto temporário até a próxima Assembleia Geral, onde será realizada a eleição definitiva.
 
 ## Art. 9º - Do Processo Eleitoral
 
@@ -262,7 +299,7 @@ II - As sobras líquidas apuradas ao final de cada exercício serão distribuíd
 
 III - A distribuição de sobras poderá ser feita em forma de crédito para o cooperado, que poderá utilizá-lo como abatimento em contribuições futuras ou em outro benefício, conforme deliberação da Assembleia Geral.
 
-IV - A destinação das sobras líquidas será aprovada pela Assembleia Geral, sendo que 20% (vinte por cento) delas poderão ser destinadas ao Fundo de Reserva da Cooperativa, e o restante será distribuído entre os cooperados.
+IV - A destinação das sobras líquidas será aprovada pela Assembleia Geral, sendo que 30% (vinte por cento) delas poderão ser destinadas ao Fundo de Reserva da Cooperativa, e o restante será distribuído entre os cooperados.
 
 ## Art. 2º - Do Fundo de Reserva
 
@@ -343,11 +380,11 @@ I - São deveres dos cooperados:
 
 ## Art. 3º - Da Participação nos Órgãos da Cooperativa
 
-I - O cooperado tem o direito de se candidatar e ser eleito para os cargos de administração e para o Conselho Técnico, observados os requisitos e condições estabelecidos neste Estatuto.
+I - O cooperado tem o direito de se candidatar e ser eleito para os cargos de administração e para Diretoria Executiva, observados os requisitos e condições estabelecidos neste Estatuto.
 
-II - A participação nos órgãos da Cooperativa é voluntária, sendo que os cooperados que assumirem cargos de administração ou do Conselho Técnico devem atuar com imparcialidade, responsabilidade e compromisso com os interesses da Cooperativa.
+II - A participação nos órgãos da Cooperativa é voluntária, sendo que os cooperados que assumirem cargos de administração ou da Diretoria Executiva devem atuar com imparcialidade, responsabilidade e compromisso com os interesses da Cooperativa.
 
-III - O cooperado que for eleito para qualquer cargo de administração ou Conselho Técnico deverá cumprir com os deveres de diligência, lealdade e discrição, atendendo sempre aos interesses da Cooperativa e de seus associados.
+III - O cooperado que for eleito para qualquer cargo de administração ou Diretoria Executiva deverá cumprir com os deveres de diligência, lealdade e discrição, atendendo sempre aos interesses da Cooperativa e de seus associados.
 
 ## Art. 4º - Da Exclusão de Cooperado
 
@@ -358,6 +395,7 @@ I - O cooperado poderá ser excluído da Cooperativa por decisão da Assembleia 
 3. Conduta incompatível com os valores e os objetivos da Cooperativa, que prejudique a harmonia entre os cooperados ou os objetivos sociais.
 4. Condenação judicial por crime que envolva infração aos princípios da boa-fé, lealdade e ética cooperativista.
 5. Por decisão da Assembleia Geral, em caso de morte ou incapacidade do cooperado, quando a continuidade da sua participação não for possível ou desejável.
+6. Por decissão técnica caso o cooperado viole principios técnicos de boas práticas.
 
 II - A exclusão do cooperado deverá ser precedida de notificação e de um processo de defesa, garantindo-lhe o direito ao contraditório e à ampla defesa.
 
@@ -383,7 +421,7 @@ III - A suspensão de direitos não implicará em exclusão da Cooperativa, salv
 
 A Cooperativa poderá ser dissolvida nas seguintes hipóteses:
 
-1. **Deliberação da Assembleia Geral**: A dissolução poderá ser decidida pela Assembleia Geral, convocada especificamente para esse fim, com a aprovação de pelo menos dois terços dos cooperados presentes.
+1. **Deliberação da Assembleia Geral**: A dissolução poderá ser decidida pela Assembleia Geral, convocada especificamente para esse fim, com a aprovação de pelo menos 75% (setenta e cinco) dos cooperados presentes.
 2. **Falência ou Incapacidade Econômica**: Caso a Cooperativa se encontre em situação financeira insustentável ou falência, conforme constatado por auditoria externa, poderá ser dissolvida de forma judicial, seguindo as disposições legais vigentes.
 3. **Vigência do Prazo de Duração**: Caso o prazo de duração estabelecido no Art. 2º deste Estatuto chegue ao fim e não seja renovado pela Assembleia Geral.
 4. **Perda de Objeto**: Quando o objeto social da Cooperativa deixar de ser viável ou for impossível de ser atingido, em razão de mudanças significativas nas condições externas ou internas.
@@ -392,7 +430,7 @@ A Cooperativa poderá ser dissolvida nas seguintes hipóteses:
 
 I - A liquidação da Cooperativa ocorrerá quando decidida sua dissolução, e será conduzida por um liquidante ou comissão de liquidação, conforme determinado pela Assembleia Geral.
 
-II - A comissão de liquidação será composta por três cooperados, que deverão ser eleitos pela Assembleia Geral, sendo responsáveis por:
+II - A comissão de liquidação será composta por três cooperados, que deverão ser membros do Conselho Administrativo, Conselho Técnico e um representante eleito pela Assembleia Geral, sendo responsáveis por:
 
 1. Arrecadar os bens e direitos da Cooperativa.
 2. Quitação de suas obrigações financeiras.
@@ -425,7 +463,7 @@ III - O relatório final de liquidação deverá ser aprovado pela Assembleia Ge
 
 Este Estatuto poderá ser alterado a qualquer tempo, por deliberação da Assembleia Geral, obedecendo as seguintes condições:
 
-1. A proposta de alteração deverá ser apresentada pelo Conselho Administrativo ou por um número mínimo de cooperados que representem pelo menos 10% (dez por cento) do capital social da Cooperativa.
+1. A proposta de alteração deverá ser apresentada pelo Conselho Administrativo ou por um número mínimo de cooperados que representem pelo menos 30% (dez por cento) do capital social da Cooperativa.
 2. A deliberação da Assembleia Geral para a alteração do Estatuto exigirá a aprovação de dois terços dos cooperados presentes.
 3. As alterações serão formalizadas por meio de registro no órgão competente, conforme a legislação vigente.
 
@@ -436,7 +474,7 @@ II - Os cooperados não responderão pessoalmente pelas obrigações da Cooperat
 
 ## Art. 3º - Da Confidencialidade
 
-Todos os cooperados, membros do Conselho Administrativo, Conselho Fiscal, e demais partes envolvidas na gestão da Cooperativa têm a obrigação de manter a confidencialidade sobre as informações que sejam consideradas estratégicas ou confidenciais, conforme estabelecido pela Assembleia Geral.
+Todos os cooperados, membros do Conselho Administrativo, Conselho Fiscal, e demais partes envolvidas na gestão da Cooperativa têm a obrigação de manter a confidencialidade sobre as informações que sejam consideradas estratégicas ou confidenciais, conforme estabelecido pelo Conselho Técnico em Assembleia Geral.
 
 ## Art. 4º - Da Publicidade das Atas
 
@@ -487,9 +525,18 @@ III - As deliberações do Conselho Técnico serão tomadas por maioria simples,
 
 ## Art. 4º - Da Eleição dos Membros do Conselho Técnico
 
-I - Os membros do Conselho Técnico serão eleitos pelos cooperados em Assembleia Geral, por meio de eleição direta, com mandato de 2 (dois) anos, podendo ser reeleitos.
-II - As eleições para o Conselho Técnico ocorrerão a cada biênio, e todos os cooperados poderão se candidatar, desde que atendam aos critérios técnicos estabelecidos no regimento interno da Cooperativa.
-III - O processo eleitoral será regido por um regimento interno que garantirá a transparência e a lisura das eleições.
+I - Os membros do Conselho Técnico serão eleitos exclusivamente pelos membros já em exercício no próprio Conselho Técnico, garantindo sua autonomia e a preservação dos critérios técnicos.
+
+II - Apenas cooperados com comprovada experiência ou conhecimento técnico relevante nas áreas de software, infraestrutura de telecomunicações ou processamento de dados poderão se candidatar a uma vaga no Conselho Técnico, conforme critérios definidos em regimento interno.
+
+III - A eleição de novos membros ocorrerá por deliberação do Conselho Técnico, sendo necessária a aprovação da maioria absoluta de seus membros.
+
+IV - Para preservar a independência e a integridade técnica do Conselho, a participação de familiares de membros já em exercício será limitada a 30% (trinta por cento) do total de assentos.
+
+V - O mandato dos membros do Conselho Técnico será de 4 (quatro) anos, permitida a reeleição, desde que respeitados os critérios estabelecidos neste artigo.
+
+VI - O Conselho Técnico poderá, a qualquer momento, revisar e atualizar os critérios de admissão, permanência e exclusão de seus membros, desde que haja aprovação da maioria absoluta do Conselho.
+
 
 ## Art. 5º - Da Substituição de Membros do Conselho Técnico
 
@@ -532,7 +579,7 @@ A remuneração dos membros dos órgãos sociais da Cooperativa, incluindo os me
 
 I - A remuneração dos membros do Conselho Técnico será definida pela Assembleia Geral, levando em consideração as necessidades da Cooperativa, a disponibilidade financeira e a relevância das funções desempenhadas.
 II - O valor da remuneração será ajustado periodicamente, conforme a evolução do faturamento da Cooperativa e a complexidade das atividades do Conselho Técnico.
-III - A remuneração dos membros do Conselho Técnico não poderá ser superior a 10% do total das receitas líquidas anuais da Cooperativa, salvo em casos excepcionais, previamente aprovados pela Assembleia Geral.
+III - A remuneração dos membros do Conselho Técnico não poderá ser superior a 15% do total das receitas líquidas anuais da Cooperativa, salvo em casos excepcionais, previamente aprovados pela Assembleia Geral.
 
 ## Art. 3º - Da Remuneração da Administração
 
@@ -566,10 +613,39 @@ A governança da Cooperativa será estruturada com o objetivo de garantir transp
 
 ## Art. 2º - Do Conselho Administrativo
 
-I - A Cooperativa será administrada por um Conselho Administrativo, composto por um número mínimo de 3 (três) membros e um máximo de 7 (sete) membros, eleitos pela Assembleia Geral.
-II - Os membros do Conselho Administrativo serão eleitos pelos cooperados, podendo ser reelegidos por períodos consecutivos, conforme as regras estabelecidas neste Estatuto.
-III - O Conselho Administrativo terá a responsabilidade de tomar as decisões estratégicas e operacionais da Cooperativa, supervisionando a implementação das políticas e ações estabelecidas pela Assembleia Geral.
-IV - O Conselho Administrativo poderá nomear e destituir executivos e outros gestores para a administração diária da Cooperativa, conforme necessário.
+I - O Conselho Administrativo será composto por 3 (três) membros, com mandato de 4 (quatro) anos, permitida a reeleição.
+
+II - A eleição dos membros do Conselho Administrativo ocorrerá da seguinte forma:
+
+1. O processo de eleição será conduzido em sessão conjunta do Conselho Técnico e da Assembleia Geral;
+
+2. Cada membro do Conselho Técnico terá direito a 1 (um) voto, totalizando 7 (sete) votos virtuais;
+
+3. A Assembleia Geral terá 8 (oito) votos virtuais distribuídos proporcionalmente entre os cooperados não pertencentes ao Conselho Técnico, com o peso de cada voto calculado de acordo com a participação de cada cooperado presente;
+
+4. Será considerado eleito o candidato que obtiver a maioria simples dos votos somados do Conselho Técnico e dos votos virtuais da Assembleia Geral.
+
+III - Compete ao Conselho Administrativo:
+
+1. Supervisionar a execução das diretrizes estabelecidas pelo Conselho Técnico e pela Assembleia Geral;
+
+2. Deliberar sobre os objetivos estratégicos da Cooperativa, respeitando os critérios técnicos definidos pelo Conselho Técnico;
+
+3. Aprovar o orçamento anual e as políticas operacionais, desde que não entrem em conflito com as decisões técnicas do Conselho Técnico;
+
+4. Aprovar a admissão de novos cooperados, observando os requisitos estabelecidos no Estatuto e em regulamento específico;
+
+5. Supervisionar e fiscalizar a atuação da Diretoria Executiva;
+
+6. Elaborar e apresentar relatórios periódicos sobre a gestão da Cooperativa aos cooperados;
+
+7. Deliberar sobre a distribuição de sobras ou a apuração de resultados, respeitando as políticas definidas em Assembleia Geral e as diretrizes do Conselho Técnico.
+
+IV - O Conselho Administrativo deverá reunir-se, no mínimo, uma vez por trimestre, com a presença da maioria de seus membros.
+
+V - O Conselho Técnico terá poder de veto sobre decisões do Conselho Administrativo que comprometam a infraestrutura de ativos de datacenter, processamento de dados ou outros serviços regulados por ele.
+
+VI - A destituição de membros do Conselho Administrativo só poderá ocorrer por deliberação da Assembleia Geral, com maioria qualificada de 2/3 (dois terços) dos votos, respeitando o modelo de votação mista definido no inciso II deste artigo.
 
 ## Art. 3º - Das Atribuições do Conselho Administrativo
 
@@ -586,7 +662,7 @@ O Conselho Administrativo será responsável por:
 
 I - A eleição dos membros do Conselho Administrativo será realizada por meio de voto direto dos cooperados, em Assembleia Geral, respeitando a proporção de votos estabelecida neste Estatuto.
 II - Os membros do Conselho Administrativo serão eleitos por um mandato de 2 (dois) anos, sendo possível a reeleição.
-III - A remoção de um membro do Conselho Administrativo poderá ser feita pela Assembleia Geral, com a aprovação de, no mínimo, 2/3 (dois terços) dos votos presentes.
+III - A remoção de um membro do Conselho Administrativo poderá ser feita pela Assembleia Geral, com a aprovação de, no mínimo, 2/3 (dois terços) dos votos presentes sempre que houver anuencia do conselho técnico.
 IV - A vacância de qualquer cargo no Conselho Administrativo será preenchida de forma temporária, por meio de eleição suplementar, até a próxima Assembleia Geral.
 
 ## Art. 5º - Das Regras de Decisão e Votação
